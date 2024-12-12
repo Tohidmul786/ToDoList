@@ -1,0 +1,11 @@
+
+.Main{
+  justify-content: center;
+   align-items: center;
+   display: flex table-column;
+   padding: 50px;
+  
+   background-color: aqua;
+   height: 100vh;
+ 
+} 
